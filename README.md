@@ -1,5 +1,5 @@
 ## Seja bem-vindo! Sou Eduardo Lima 💻☕
-<div>
+<div style="display: inline_block">
 <img height='215em' src='https://github-readme-stats.vercel.app/api?username=edulimaaa&theme=algolia&show_icons=true'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=edulimaaa&theme=algolia&layout=donut'>
 </div>
